@@ -1,1 +1,3 @@
+sudo update
 
+sudo upgrade
