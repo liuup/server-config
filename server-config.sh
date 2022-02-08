@@ -1,3 +1,3 @@
-sudo update
+sudo apt-get update
 
-sudo upgrade
+sudo apt-get upgrade
